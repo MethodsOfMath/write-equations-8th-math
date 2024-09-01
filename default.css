@@ -1,4 +1,27 @@
 <style>
 /* paste CSS here */
+#Question {
+  padding: 10px;
+  margin: 10px;
+  height: 150px;
+  font-family: Sans-serif;
+  background-color: #EDEDED;
+}
+
+#Equation {
+  padding: 10px;
+  margin: 10px;
+  height: 20px;
+  font-family: monospace;
+  background-color: #EDEDED;
+}
+
+button {
+  font-family: Sans-serif;
+  color: blue;
+  background: none;
+  border: none;
+  text-decoration: underline;
+}
 
 </style>
