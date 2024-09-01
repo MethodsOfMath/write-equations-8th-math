@@ -1,18 +1,18 @@
 <style>
 
-#Question {
-  padding: 10px;
-  margin: 10px;
-  height: 150px;
-  font-family: Sans-serif;
-  background-color: #EEEE77;
-}
-
 #Equation {
   padding: 10px;
   margin: 10px;
   height: 20px;
   font-family: monospace;
+  background-color: #EEEE77;
+}
+
+#Question {
+  padding: 10px;
+  margin: 10px;
+  height: 150px;
+  font-family: Sans-serif;
   background-color: #EEEE77;
 }
 
