@@ -3,14 +3,14 @@
 #instructions {
   padding: 10px;
   margin: 10px;
-  font-family: Sans-serif;
+  font-family: sans-serif;
   background-color: #eeeedd;
 }
 
 #bottomButtons {
   padding: 10px;
   margin: 10px;
-  font-family: Sans-serif;
+  font-family: sans-serif;
   background-color: #dddd55;
 }
 
@@ -18,7 +18,7 @@
   padding: 10px;
   margin: 10px;
   height: 150px;
-  font-family: Sans-serif;
+  font-family: sans-serif;
   background-color: #eeee88;
 }
 
@@ -37,6 +37,5 @@ button {
   border: none;
   text-decoration: underline;
 }
-
 
 </style>
