@@ -29,7 +29,7 @@ Questions = [
 
     {
     Question: "<p>Candi has crates that weigh <button onclick='eq(4,0)'>60 pounds</button> <button onclick='eq(4,1)'> each</button>, <button onclick='eq(4,2)'>plus</button> <button onclick='eq(4,3)'>a box that weighs 17.5 pounds</button>. Manny has crates that weigh <button onclick='eq(4,5)'>50 pounds</button> <button onclick='eq(4,6)'>each</button>, <button onclick='eq(4,7)'>plus</button>  <button onclick='eq(4,8)'>one box that weighs 97.5 pounds</button>.  How many crates, x, would it take for <button onclick='eq(4,4)'>Candi and Manny to have the same weight of crates and boxes</button>?",
-   Equation: ['60', 'x', ' + ', ' 27.5', ' = ',' 50', 'x', ' + ', ' 97.5'],
+   Equation: ['60', 'x', ' + ', ' 17.5', ' = ',' 50', 'x', ' + ', ' 97.5'],
    Translation:"https://translate.google.com/?sl=en&tl=es&text=Candi%20has%20crates%20that%20weigh%2060%20pounds%20each%2C%20plus%20a%20box%20that%20weighs%2017.5%20pounds.%20Manny%20has%20crates%20that%20weigh%2050%20pounds%20each%2C%20plus%20one%20box%20that%20weighs%2097.5%20pounds.%20%20How%20many%20crates%2C%20x%2C%20would%20it%20take%20for%20Candi%20and%20Manny%20to%20have%20the%20same%20weight%20of%20crates%20and%20boxes%3F&op=translate"
   },
 {
@@ -95,4 +95,3 @@ function nextQuestion() {
 }
 
 showQuestion(0);
-
