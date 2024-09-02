@@ -94,4 +94,11 @@ function nextQuestion() {
   }
 }
 
+function previousQuestion() {
+  if (currentQuestion > 0 ) {
+    currentQuestion--;
+    showQuestion(currentQuestion);
+  }
+}
+
 showQuestion(0);
