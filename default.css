@@ -1,11 +1,25 @@
 <style>
 
+#instructions {
+  padding: 10px;
+  margin: 10px;
+  font-family: Sans-serif;
+  background-color: #eeeedd;
+}
+
+#bottomButtons {
+  padding: 10px;
+  margin: 10px;
+  font-family: Sans-serif;
+  background-color: #dddd55;
+}
+
 #Question {
   padding: 10px;
   margin: 10px;
   height: 150px;
   font-family: Sans-serif;
-  background-color: #eeee77;
+  background-color: #eeee88;
 }
 
 #Equation {
@@ -13,7 +27,7 @@
   margin: 10px;
   height: 20px;
   font-family: monospace;
-  background-color: #eeee77;
+  background-color: #eeee66;
 }
 
 button {
